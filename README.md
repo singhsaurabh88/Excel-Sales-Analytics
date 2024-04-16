@@ -22,15 +22,15 @@ Along with this additional analysis were also performed to get insights from bot
 
  - **Other reports :**
      
-    **3.** Created _[Division Level Report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_
+    **3.** Create [Division Level Report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_
      
-    **4.**  Created_[New Product Launch 2021 Report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/New%20Product%20Launch%202021.pdf)_
+    **4.**  Create [New Product Launch 2021 Report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/New%20Product%20Launch%202021.pdf)_
   
-    **5.** Created_[Top 5 and Bottom 5 Products sold by Quantity report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20Products.pdf)_
+    **5.** Create [Top 5 and Bottom 5 Products sold by Quantity report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20Products.pdf)_
   
-    **6.**  Created_[Top 5 Countries by Net Sales 2021 report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%205%20Counries%20by%20Net%20Sales.pdf)_
+    **6.**  Create [Top 5 Countries by Net Sales 2021 report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%205%20Counries%20by%20Net%20Sales.pdf)_
   
-    **7.**  Created_[Top 10 Products by Year report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%2010%20Products%20by%20Year.pdf)_
+    **7.**  Create [Top 10 Products by Year report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%2010%20Products%20by%20Year.pdf)_
 
 
 
