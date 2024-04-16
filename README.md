@@ -18,7 +18,7 @@ Along with this additional analysis were also performed to get insights from bot
      
     **1.** Create a _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)_
 
  - **Other reports :**
      
