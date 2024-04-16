@@ -22,7 +22,7 @@ Along with this additional analysis were also performed to get insights from bot
 
  - **Other reports :**
      
-    **3.** Division Level Report _(https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_
+    **3.** Division Level Report _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_
      
     **4.** New Product Launch 2021 _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/New%20Product%20Launch%202021.pdf)_
   
@@ -31,6 +31,7 @@ Along with this additional analysis were also performed to get insights from bot
     **6.** Top 5 Countries by Net Sales 2021 _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%205%20Counries%20by%20Net%20Sales.pdf)_
   
     **7.** Top 10 Products by Year _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%2010%20Products%20by%20Year.pdf)_
+
 
 
 **Purpose of sales analytics:** Sales analytics reports serve several purposes, primarily aimed at providing insights into the performance of sales efforts and informing strategic decisions. Additionally, Empower businesses to monitor and evaluate their sales activities and performance. Some of the key purposes sales analytics can serve are Performance evaluation,Identify trends, customer insights, ROI Analysis
