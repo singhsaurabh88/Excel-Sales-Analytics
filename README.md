@@ -11,17 +11,24 @@ Along with this additional analysis were also performed to get insights from bot
 
 ## Sales Report :
 
-- **Project objective:** 
-   - **Main reports :** 
+- **Project objective:**
+- 
+   - **Main reports :**
+   - 
     **1.** Create a _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)_
 
-   - **Other reports :** 
+   - **Other reports :**
+     
     **3.** Division Level Report _([https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf])_
+     
     **4.** New Product Launch 2021 _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/New%20Product%20Launch%202021.pdf)_
+  
     **5.** Top 5 and Bottom 5 Products sold by Quantity_[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20Products.pdf)_
+  
     **6.** Top 5 Countries by Net Sales 2021 _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%205%20Counries%20by%20Net%20Sales.pdf)_
+  
     **7.** Top 10 Products by Year _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Top%2010%20Products%20by%20Year.pdf)_
 
 
@@ -36,12 +43,16 @@ Along with this additional analysis were also performed to get insights from bot
   ## Finance Report :
 
 - **Project objective:**
-   - **Main reports :** 
+  
+   - **Main reports :**
+     
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Fiscal%20Year.pdf)_ & _[Fiscal Months](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Fiscal%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets/Region](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Region.pdf)_
 
-- **Other reports :** 
+
+- **Other reports :**
+  
     **3.** Create Profit and Loss (P&L) reports by _[Division](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Division.pdf)_
 
 
