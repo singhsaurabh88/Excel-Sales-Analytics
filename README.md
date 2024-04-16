@@ -12,6 +12,7 @@ Along with this additional analysis were also performed to get insights from bot
 ## Sales Report :
 
 - **Project objective:**
+
   
  - **Main reports :**
      
@@ -21,7 +22,7 @@ Along with this additional analysis were also performed to get insights from bot
 
  - **Other reports :**
      
-    **3.** Division Level Report _([https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf])_
+    **3.** Division Level Report _(https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf)_
      
     **4.** New Product Launch 2021 _[customer performance report](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/New%20Product%20Launch%202021.pdf)_
   
@@ -54,6 +55,7 @@ Along with this additional analysis were also performed to get insights from bot
 - **Other reports :**
   
     **3.** Create Profit and Loss (P&L) reports by _[Division](https://github.com/singhsaurabh88/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statements%20by%20Division.pdf)_
+
 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
